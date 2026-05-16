@@ -1,0 +1,431 @@
+# Antennae
+- type: marking
+  id: ChitinidAntennasDefault
+  bodyPart: HeadTop
+  groupWhitelist: [ Chitinid ]
+  sprites:
+  - sprite: _NF/Mobs/Customization/Chitinid/chitinid_antennas.rsi
+    state: default
+
+- type: marking
+  id: ChitinidAntennasCurly
+  bodyPart: HeadTop
+  groupWhitelist: [ Chitinid ]
+  sprites:
+  - sprite: _NF/Mobs/Customization/Chitinid/chitinid_antennas.rsi
+    state: curly
+
+- type: marking
+  id: ChitinidAntennasShort
+  bodyPart: HeadTop
+  groupWhitelist: [ Chitinid ]
+  sprites:
+  - sprite: _NF/Mobs/Customization/Chitinid/chitinid_antennas.rsi
+    state: short
+
+- type: marking
+  id: ChitinidAntennasLong
+  bodyPart: HeadTop
+  groupWhitelist: [ Chitinid ]
+  sprites:
+  - sprite: _NF/Mobs/Customization/Chitinid/chitinid_antennas.rsi
+    state: long
+
+- type: marking
+  id: ChitinidAntennasGray
+  bodyPart: HeadTop
+  groupWhitelist: [ Chitinid ]
+  sprites:
+  - sprite: _NF/Mobs/Customization/Chitinid/chitinid_antennas.rsi
+    state: gray
+
+- type: marking
+  id: ChitinidAntennasSlick
+  bodyPart: HeadTop
+  groupWhitelist: [ Chitinid ]
+  sprites:
+  - sprite: _NF/Mobs/Customization/Chitinid/chitinid_antennas.rsi
+    state: slick
+
+- type: marking
+  id: ChitinidAntennasBee
+  bodyPart: HeadTop
+  groupWhitelist: [ Chitinid ]
+  sprites:
+  - sprite: _NF/Mobs/Customization/Chitinid/chitinid_antennas.rsi
+    state: bee
+
+- type: marking
+  id: ChitinidAntennasFireflyPrimary
+  bodyPart: HeadTop
+  groupWhitelist: [ Chitinid ]
+  sprites:
+  - sprite: _NF/Mobs/Customization/Chitinid/chitinid_antennas.rsi
+    state: firefly_primary
+
+- type: marking
+  id: ChitinidAntennasFireflySecondary
+  bodyPart: HeadTop
+  groupWhitelist: [ Chitinid ]
+  sprites:
+  - sprite: _NF/Mobs/Customization/Chitinid/chitinid_antennas.rsi
+    state: firefly_secondary
+
+- type: marking
+  id: ChitinidAntennasRadar
+  bodyPart: HeadTop
+  groupWhitelist: [ Chitinid ]
+  sprites:
+  - sprite: _NF/Mobs/Customization/Chitinid/chitinid_antennas.rsi
+    state: radar
+
+- type: marking
+  id: ChitinidAntennasSpeed
+  bodyPart: HeadTop
+  groupWhitelist: [ Chitinid ]
+  sprites:
+  - sprite: _NF/Mobs/Customization/Chitinid/chitinid_antennas.rsi
+    state: speed
+
+# Wings
+- type: marking
+  id: ChitinidWingsDefault
+  bodyPart: Tail
+  groupWhitelist: [ Chitinid ]
+  sprites:
+  - sprite: _NF/Mobs/Customization/Chitinid/chitinid_wings.rsi
+    state: default
+
+- type: marking
+  id: ChitinidWingsSmooth
+  bodyPart: Tail
+  groupWhitelist: [ Chitinid ]
+  sprites:
+  - sprite: _NF/Mobs/Customization/Chitinid/chitinid_wings.rsi
+    state: smooth
+
+- type: marking
+  id: ChitinidWingsStubby
+  bodyPart: Tail
+  groupWhitelist: [ Chitinid ]
+  sprites:
+  - sprite: _NF/Mobs/Customization/Chitinid/chitinid_wings.rsi
+    state: stubby
+
+- type: marking
+  id: ChitinidWingsHoneypotPrimary
+  bodyPart: Tail
+  groupWhitelist: [ Chitinid ]
+  sprites:
+  - sprite: _NF/Mobs/Customization/Chitinid/chitinid_wings.rsi
+    state: honeypot_primary
+
+- type: marking
+  id: ChitinidWingsHoneypotSecondary
+  bodyPart: Tail
+  groupWhitelist: [ Chitinid ]
+  sprites:
+  - sprite: _NF/Mobs/Customization/Chitinid/chitinid_wings.rsi
+    state: honeypot_secondary
+
+- type: marking
+  id: ChitinidWingsBeePrimary
+  bodyPart: Tail
+  groupWhitelist: [ Chitinid ]
+  sprites:
+  - sprite: _NF/Mobs/Customization/Chitinid/chitinid_wings.rsi
+    state: bee_primary
+
+- type: marking
+  id: ChitinidWingsBeeSecondary
+  bodyPart: Tail
+  groupWhitelist: [ Chitinid ]
+  sprites:
+  - sprite: _NF/Mobs/Customization/Chitinid/chitinid_wings.rsi
+    state: bee_secondary
+
+- type: marking
+  id: ChitinidWingsFireflyPrimary
+  bodyPart: Tail
+  groupWhitelist: [ Chitinid ]
+  sprites:
+  - sprite: _NF/Mobs/Customization/Chitinid/chitinid_wings.rsi
+    state: firefly_primary
+
+- type: marking
+  id: ChitinidWingsFireflySecondary
+  bodyPart: Tail
+  groupWhitelist: [ Chitinid ]
+  sprites:
+  - sprite: _NF/Mobs/Customization/Chitinid/chitinid_wings.rsi
+    state: firefly_secondary
+
+# Body markings (charred carapace)
+- type: marking
+  id: ChitinidPartsCharredHead
+  bodyPart: Head
+  groupWhitelist: [ Chitinid ]
+  sprites:
+  - sprite: _NF/Mobs/Customization/Chitinid/chitinid_parts.rsi
+    state: charred_head
+
+- type: marking
+  id: ChitinidPartsCharredChest
+  bodyPart: Chest
+  groupWhitelist: [ Chitinid ]
+  sprites:
+  - sprite: _NF/Mobs/Customization/Chitinid/chitinid_parts.rsi
+    state: charred_chest
+
+- type: marking
+  id: ChitinidPartsCharredRArm
+  bodyPart: RArm
+  groupWhitelist: [ Chitinid ]
+  sprites:
+  - sprite: _NF/Mobs/Customization/Chitinid/chitinid_parts.rsi
+    state: charred_r_arm
+
+- type: marking
+  id: ChitinidPartsCharredLArm
+  bodyPart: LArm
+  groupWhitelist: [ Chitinid ]
+  sprites:
+  - sprite: _NF/Mobs/Customization/Chitinid/chitinid_parts.rsi
+    state: charred_l_arm
+
+- type: marking
+  id: ChitinidPartsCharredRLeg
+  bodyPart: RLeg
+  groupWhitelist: [ Chitinid ]
+  sprites:
+  - sprite: _NF/Mobs/Customization/Chitinid/chitinid_parts.rsi
+    state: charred_r_leg
+
+- type: marking
+  id: ChitinidPartsCharredLLeg
+  bodyPart: LLeg
+  groupWhitelist: [ Chitinid ]
+  sprites:
+  - sprite: _NF/Mobs/Customization/Chitinid/chitinid_parts.rsi
+    state: charred_l_leg
+
+# Body markings (striped carapace)
+- type: marking
+  id: ChitinidPartsStripesHead
+  bodyPart: Head
+  groupWhitelist: [ Chitinid ]
+  sprites:
+  - sprite: _NF/Mobs/Customization/Chitinid/chitinid_parts.rsi
+    state: stripes_head
+
+- type: marking
+  id: ChitinidPartsStripesChest
+  bodyPart: Chest
+  groupWhitelist: [ Chitinid ]
+  sprites:
+  - sprite: _NF/Mobs/Customization/Chitinid/chitinid_parts.rsi
+    state: stripes_chest
+
+- type: marking
+  id: ChitinidPartsStripesRArm
+  bodyPart: RArm
+  groupWhitelist: [ Chitinid ]
+  sprites:
+  - sprite: _NF/Mobs/Customization/Chitinid/chitinid_parts.rsi
+    state: stripes_r_arm
+
+- type: marking
+  id: ChitinidPartsStripesLArm
+  bodyPart: LArm
+  groupWhitelist: [ Chitinid ]
+  sprites:
+  - sprite: _NF/Mobs/Customization/Chitinid/chitinid_parts.rsi
+    state: stripes_l_arm
+
+- type: marking
+  id: ChitinidPartsStripesRLeg
+  bodyPart: RLeg
+  groupWhitelist: [ Chitinid ]
+  sprites:
+  - sprite: _NF/Mobs/Customization/Chitinid/chitinid_parts.rsi
+    state: stripes_r_leg
+
+- type: marking
+  id: ChitinidPartsStripesLLeg
+  bodyPart: LLeg
+  groupWhitelist: [ Chitinid ]
+  sprites:
+  - sprite: _NF/Mobs/Customization/Chitinid/chitinid_parts.rsi
+    state: stripes_l_leg
+
+# Body markings (plated carapace)
+- type: marking
+  id: ChitinidPartsPlatedChest
+  bodyPart: Chest
+  groupWhitelist: [ Chitinid ]
+  sprites:
+  - sprite: _NF/Mobs/Customization/Chitinid/chitinid_parts.rsi
+    state: plated_chest
+
+- type: marking
+  id: ChitinidPartsPlatedRArm
+  bodyPart: RArm
+  groupWhitelist: [ Chitinid ]
+  sprites:
+  - sprite: _NF/Mobs/Customization/Chitinid/chitinid_parts.rsi
+    state: plated_r_arm
+
+- type: marking
+  id: ChitinidPartsPlatedLArm
+  bodyPart: LArm
+  groupWhitelist: [ Chitinid ]
+  sprites:
+  - sprite: _NF/Mobs/Customization/Chitinid/chitinid_parts.rsi
+    state: plated_l_arm
+
+# Body markings (radiant carapace)
+- type: marking
+  id: ChitinidPartsRadiantHead
+  bodyPart: Head
+  groupWhitelist: [ Chitinid ]
+  sprites:
+  - sprite: _NF/Mobs/Customization/Chitinid/chitinid_parts.rsi
+    state: radiant_head
+
+- type: marking
+  id: ChitinidPartsRadiantChest
+  bodyPart: Chest
+  groupWhitelist: [ Chitinid ]
+  sprites:
+  - sprite: _NF/Mobs/Customization/Chitinid/chitinid_parts.rsi
+    state: radiant_chest
+
+- type: marking
+  id: ChitinidPartsRadiantRArm
+  bodyPart: RArm
+  groupWhitelist: [ Chitinid ]
+  sprites:
+  - sprite: _NF/Mobs/Customization/Chitinid/chitinid_parts.rsi
+    state: radiant_r_arm
+
+- type: marking
+  id: ChitinidPartsRadiantLArm
+  bodyPart: LArm
+  groupWhitelist: [ Chitinid ]
+  sprites:
+  - sprite: _NF/Mobs/Customization/Chitinid/chitinid_parts.rsi
+    state: radiant_l_arm
+
+- type: marking
+  id: ChitinidPartsRadiantRLeg
+  bodyPart: RLeg
+  groupWhitelist: [ Chitinid ]
+  sprites:
+  - sprite: _NF/Mobs/Customization/Chitinid/chitinid_parts.rsi
+    state: radiant_r_leg
+
+- type: marking
+  id: ChitinidPartsRadiantLLeg
+  bodyPart: LLeg
+  groupWhitelist: [ Chitinid ]
+  sprites:
+  - sprite: _NF/Mobs/Customization/Chitinid/chitinid_parts.rsi
+    state: radiant_l_leg
+
+# Body markings (toxic carapace)
+- type: marking
+  id: ChitinidPartsToxicHead
+  bodyPart: Head
+  groupWhitelist: [ Chitinid ]
+  sprites:
+  - sprite: _NF/Mobs/Customization/Chitinid/chitinid_parts.rsi
+    state: toxic_head
+
+- type: marking
+  id: ChitinidPartsToxicChest
+  bodyPart: Chest
+  groupWhitelist: [ Chitinid ]
+  sprites:
+  - sprite: _NF/Mobs/Customization/Chitinid/chitinid_parts.rsi
+    state: toxic_chest
+
+- type: marking
+  id: ChitinidPartsToxicRArm
+  bodyPart: RArm
+  groupWhitelist: [ Chitinid ]
+  sprites:
+  - sprite: _NF/Mobs/Customization/Chitinid/chitinid_parts.rsi
+    state: toxic_r_arm
+
+- type: marking
+  id: ChitinidPartsToxicLArm
+  bodyPart: LArm
+  groupWhitelist: [ Chitinid ]
+  sprites:
+  - sprite: _NF/Mobs/Customization/Chitinid/chitinid_parts.rsi
+    state: toxic_l_arm
+
+- type: marking
+  id: ChitinidPartsToxicRLeg
+  bodyPart: RLeg
+  groupWhitelist: [ Chitinid ]
+  sprites:
+  - sprite: _NF/Mobs/Customization/Chitinid/chitinid_parts.rsi
+    state: toxic_r_leg
+
+- type: marking
+  id: ChitinidPartsToxicLLeg
+  bodyPart: LLeg
+  groupWhitelist: [ Chitinid ]
+  sprites:
+  - sprite: _NF/Mobs/Customization/Chitinid/chitinid_parts.rsi
+    state: toxic_l_leg
+
+# Body markings (spotted carapace)
+- type: marking
+  id: ChitinidPartsSpottedHead
+  bodyPart: Head
+  groupWhitelist: [ Chitinid ]
+  sprites:
+  - sprite: _NF/Mobs/Customization/Chitinid/chitinid_parts.rsi
+    state: spotted_head
+
+- type: marking
+  id: ChitinidPartsSpottedChest
+  bodyPart: Chest
+  groupWhitelist: [ Chitinid ]
+  sprites:
+  - sprite: _NF/Mobs/Customization/Chitinid/chitinid_parts.rsi
+    state: spotted_chest
+
+- type: marking
+  id: ChitinidPartsSpottedRArm
+  bodyPart: RArm
+  groupWhitelist: [ Chitinid ]
+  sprites:
+  - sprite: _NF/Mobs/Customization/Chitinid/chitinid_parts.rsi
+    state: spotted_r_arm
+
+- type: marking
+  id: ChitinidPartsSpottedLArm
+  bodyPart: LArm
+  groupWhitelist: [ Chitinid ]
+  sprites:
+  - sprite: _NF/Mobs/Customization/Chitinid/chitinid_parts.rsi
+    state: spotted_l_arm
+
+- type: marking
+  id: ChitinidPartsSpottedRLeg
+  bodyPart: RLeg
+  groupWhitelist: [ Chitinid ]
+  sprites:
+  - sprite: _NF/Mobs/Customization/Chitinid/chitinid_parts.rsi
+    state: spotted_r_leg
+
+- type: marking
+  id: ChitinidPartsSpottedLLeg
+  bodyPart: LLeg
+  groupWhitelist: [ Chitinid ]
+  sprites:
+  - sprite: _NF/Mobs/Customization/Chitinid/chitinid_parts.rsi
+    state: spotted_l_leg

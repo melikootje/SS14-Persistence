@@ -1,0 +1,5 @@
+- type: localizedDataset
+  id: names_chitinid_last
+  values:
+    prefix: names-chitinid-last-dataset-
+    count: 20

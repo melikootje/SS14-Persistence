@@ -343,6 +343,15 @@
   coefficients:
     Holy: 2
 
+# Chitinid exoskeleton resists slashing and piercing, but chitin cracks under blunt impacts
+- type: damageModifierSet
+  id: Chitinid
+  coefficients:
+    Slash: 0.75
+    Piercing: 0.85
+    Blunt: 1.20
+    Radiation: 1.15
+
 # Vulps get more heat damage because fur
 - type: damageModifierSet
   id: Vulpkanin
